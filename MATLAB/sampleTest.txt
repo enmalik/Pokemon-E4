@@ -1,0 +1,1 @@
+id	base_experience	type_id33	128	434	223	435	113	1836	213	1837	60	1

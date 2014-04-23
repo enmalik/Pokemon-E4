@@ -14,7 +14,7 @@ print len(np.where(pId == 1)[0])
 # print np.where(pId == 1)[0]
 
 
-for pokemonId in range(1, 409):
+for pokemonId in range(1, len(pId)):
 	indexList = np.where(pId == pokemonId)[0]
 	# print indexList
 

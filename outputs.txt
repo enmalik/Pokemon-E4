@@ -1,0 +1,206 @@
+[[  91.  546.]
+ [ 150.  686.]
+ [ 149.  613.]
+ [ 144.  595.]
+ [ 131.  555.]
+ [ 121.  541.]]
+starmie
+['hyper-beam', 'skull-bash', 'double-edge', 'dream-eater']
+cloyster
+['explosion', 'self-destruct', 'hyper-beam', 'double-edge']
+dragonite
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+mewtwo
+['self-destruct', 'focus-punch', 'hyper-beam', 'skull-bash']
+lapras
+['hyper-beam', 'skull-bash', 'double-edge', 'solar-beam']
+articuno
+['hyper-beam', 'sky-attack', 'double-edge', 'ice-beam']
+
+dragonAccuracy =
+
+    0.9073
+
+
+iceAccuracy =
+
+    0.7086
+
+
+fightingAccuracy =
+
+    0.7020
+
+
+ghostAccuracy =
+
+    0.8344
+
+ .7 .3 .5 (type, base stat, threshold)
+ 		if pId > 0 and baseStats[pId-1] >= 500: # THIS
+
+-----
+
+[[  91.  546.]
+ [  36.  499.]
+ [  40.  456.]
+ [ 148.  451.]
+ [  35.  364.]
+ [  46.  329.]]
+wigglytuff
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+cloyster
+['explosion', 'self-destruct', 'hyper-beam', 'double-edge']
+dragonair
+['hyper-beam', 'skull-bash', 'double-edge', 'outrage']
+paras
+['skull-bash', 'double-edge', 'solar-beam', 'sludge-bomb']
+clefable
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+clefairy
+['focus-punch', 'skull-bash', 'double-edge', 'solar-beam']
+dragonAccuracy =
+
+    0.9073
+
+
+iceAccuracy =
+
+    0.7086
+
+
+fightingAccuracy =
+
+    0.7020
+
+
+ghostAccuracy =
+
+    0.8344
+
+ .7 .3 .5 (type, base stat, threshold)
+ 		if pId > 0 
+
+------
+
+[[  91.  546.]
+ [  36.  499.]
+ [  40.  456.]
+ [ 148.  451.]
+ [ 150.  686.]
+ [ 149.  613.]]
+wigglytuff
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+cloyster
+['explosion', 'self-destruct', 'hyper-beam', 'double-edge']
+dragonite
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+dragonair
+['hyper-beam', 'skull-bash', 'double-edge', 'outrage']
+mewtwo
+['self-destruct', 'focus-punch', 'hyper-beam', 'skull-bash']
+clefable
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+
+dragonAccuracy =
+
+    0.9073
+
+
+iceAccuracy =
+
+    0.7086
+
+
+fightingAccuracy =
+
+    0.7020
+
+
+ghostAccuracy =
+
+    0.8344
+
+  .7 .3 .5 (type, base stat, threshold)
+ 		if pId > 0 and baseStats[pId-1] >= 450: # THIS
+
+
+
+-------
+
+[[ 131.  555.]
+ [  91.  546.]
+ [ 103.  540.]
+ [ 122.  488.]
+ [ 150.  686.]
+ [ 149.  613.]]
+cloyster
+['explosion', 'self-destruct', 'hyper-beam', 'double-edge']
+dragonite
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+mr-mime
+['focus-punch', 'hyper-beam', 'skull-bash', 'double-edge']
+mewtwo
+['self-destruct', 'focus-punch', 'hyper-beam', 'skull-bash']
+lapras
+['hyper-beam', 'skull-bash', 'double-edge', 'solar-beam']
+exeggutor
+['explosion', 'self-destruct', 'hyper-beam', 'double-edge']
+
+
+ dragonAccuracy =
+
+    0.9338
+
+
+iceAccuracy =
+
+    0.8543
+
+
+fightingAccuracy =
+
+    0.8079
+
+
+ghostAccuracy =
+
+    0.8940
+
+   .7 .3 .9 (type, base stat, threshold)
+ 		if pId > 0
+ 	IF THRESHOLD IS SET HIGH FOR THE LABELS, DO NOT NEED THE BASE STAT CHECK LATER AS IT IS PART OF THE TRAINING.
+
+-------
+
+
+[[ 131.  555.]
+ [  91.  546.]
+ [ 103.  540.]
+ [ 122.  488.]
+ [ 149.  613.]
+ [ 130.  559.]]
+
+ dragonAccuracy =
+
+    0.9338
+
+
+iceAccuracy =
+
+    0.8543
+
+
+fightingAccuracy =
+
+    0.8079
+
+
+ghostAccuracy =
+
+    0.8940
+
+ .7 .3 .9 (type, base stat, threshold)
+if pId < 144 or pId == 147 or pId == 148 or pId == 149:
+PRETTY GOOD
+
